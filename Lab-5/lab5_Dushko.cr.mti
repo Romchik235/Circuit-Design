@@ -1,0 +1,15 @@
+C:/Users/User/Desktop/KC/5/Lab_5/tb_shifrator_Dushko.v {1 {vlog -work work C:/Users/User/Desktop/KC/5/Lab_5/tb_shifrator_Dushko.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_shifrator
+
+Top level modules:
+	tb_shifrator
+
+} {} {}} C:/Users/User/Desktop/KC/5/Lab_5/shifrator_0to9_to_bcd_Grigorchuk.v {1 {vlog -work work C:/Users/User/Desktop/KC/5/Lab_5/shifrator_0to9_to_bcd_Grigorchuk.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shifrator_0to9_to_bcd
+
+Top level modules:
+	shifrator_0to9_to_bcd
+
+} {} {}}
