@@ -1,0 +1,22 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile C:/Users/User/Desktop/KC/6/Lab_6/samostiyna/lab6_samostiyna_Dushko.mpf 
+# Loading project lab6_samostiyna_Dushko
+vsim -gui work.test_7r_sum
+# vsim -gui work.test_7r_sum 
+# Loading work.test_7r_sum
+# Loading work.sum_7r
+# Loading work.sum_1r
+# Loading work.ref_7r_sum
+add wave sim:/test_7r_sum/*
+run -all
+# 	Time	Ain	Bin	Ci	res_my	C1	res_ref	C2
+#                    0	000101	000011	0	001000	0	001000	0
+#                   50	001010	000011	0	001101	0	001101	0
+#                  100	010100	001100	0	100000	0	100000	0
+#                  150	100001	001100	0	101101	0	101101	0
+#                  200	001111	010100	1	100100	0	100100	0
+# ** Note: $finish    : C:/Users/User/Desktop/KC/6/Lab_6/samostiyna/test_7r_sum.v(16)
+#    Time: 580 ps  Iteration: 0  Instance: /test_7r_sum
+# 1
+# Break in Module test_7r_sum at C:/Users/User/Desktop/KC/6/Lab_6/samostiyna/test_7r_sum.v line 16
+# WARNING: No extended dataflow license exists

@@ -1,0 +1,29 @@
+C:/Users/User/Desktop/KC/6/Lab_6/samostiyna/ref_7r_sum.v {1 {vlog -work work C:/Users/User/Desktop/KC/6/Lab_6/samostiyna/ref_7r_sum.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ref_7r_sum
+
+Top level modules:
+	ref_7r_sum
+
+} {} {}} C:/Users/User/Desktop/KC/6/Lab_6/samostiyna/sum_7r.v {1 {vlog -work work C:/Users/User/Desktop/KC/6/Lab_6/samostiyna/sum_7r.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sum_7r
+
+Top level modules:
+	sum_7r
+
+} {} {}} C:/Users/User/Desktop/KC/6/Lab_6/samostiyna/sum_1r.v {1 {vlog -work work C:/Users/User/Desktop/KC/6/Lab_6/samostiyna/sum_1r.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sum_1r
+
+Top level modules:
+	sum_1r
+
+} {} {}} C:/Users/User/Desktop/KC/6/Lab_6/samostiyna/test_7r_sum.v {1 {vlog -work work C:/Users/User/Desktop/KC/6/Lab_6/samostiyna/test_7r_sum.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test_7r_sum
+
+Top level modules:
+	test_7r_sum
+
+} {} {}}
