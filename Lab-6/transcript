@@ -1,0 +1,25 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile C:/Users/User/Desktop/KC/6/Lab_6/Dushko_Lab6.mpf 
+# Loading project Havryliuk_Lab6
+vsim -gui work.test_sum
+# vsim -gui work.test_sum 
+# Loading work.test_sum
+# Loading work.my_sum
+# Loading work.bitsum
+# Loading work.ref_sum
+add wave sim:/test_sum/*
+run -all
+# 		 Time Ain Bin Ci res_my cm res_ref cr
+#                    0     1     2    0     3       0       3      0
+#                   50     5     2    0     7       0       7      0
+#                  100     1    10    0    11       0      11      0
+#                  150     5    10    0    15       0      15      0
+#                  200     1     2    1     4       0       4      0
+#                  250     5     2    1     8       0       8      0
+#                  300     1    10    1    12       0      12      0
+#                  350     5    10    1     0       1       0      1
+# ** Note: $finish    : C:/Users/User/Desktop/KC/6/Lab_6/test_sum.v(15)
+#    Time: 570 ps  Iteration: 0  Instance: /test_sum
+# 1
+# Break in Module test_sum at C:/Users/User/Desktop/KC/6/Lab_6/test_sum.v line 15
+# WARNING: No extended dataflow license exists
