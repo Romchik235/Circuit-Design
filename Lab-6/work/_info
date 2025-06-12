@@ -1,0 +1,138 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\KPI\All_labs\SecondYear\SecondHalf\KS-labs\ModelSim
+vbitsum
+Z1 I]LJAX9F31WPRnGZcYg:W03
+Z2 Vi9NGmz9LhHK1Bn8hXVK7o2
+Z3 dC:\Users\User\Desktop\KC\6\Lab_6
+Z4 w1746188786
+Z5 8C:/Users/User/Desktop/KC/6/Lab_6/my_sum.v
+Z6 FC:/Users/User/Desktop/KC/6/Lab_6/my_sum.v
+L0 19
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s108 1747208313.018000
+Z9 !s107 C:/Users/User/Desktop/KC/6/Lab_6/my_sum.v|
+Z10 !s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/KC/6/Lab_6/my_sum.v|
+Z11 o-work work -O0
+Z12 !s100 @H[@D5jja7[MY9m@S=<5T2
+!i10b 1
+!s85 0
+!s101 -O0
+vmy_sum
+Z13 Ij6OoMXSFj^Q5Y4LoL2PI02
+Z14 V>AYa<]z<eWj:6=M96`WNj3
+R3
+R4
+R5
+R6
+L0 1
+R7
+r1
+31
+R8
+R9
+R10
+R11
+Z15 !s100 4jGC<bUmi;d;nW?TkM0JK0
+!i10b 1
+!s85 0
+!s101 -O0
+vref_6r_sum
+Z16 !s100 UT[`DF7ko?oJL1Me]if_m2
+Z17 Im:N`m0RUWlg1PCGHLIM>m1
+Z18 VUZTBo]U`b1>QnOVQ7zNG73
+Z19 dD:\KPI\All_labs\SecondYear\SecondHalf\KS-labs\Lab_6
+Z20 w1746187792
+Z21 8D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/test_sum.v
+Z22 FD:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/test_sum.v
+L0 1
+R7
+r1
+31
+Z23 !s90 -reportprogress|300|-work|work|D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/test_sum.v|
+R11
+Z24 !s108 1746187796.955000
+Z25 !s107 D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/test_sum.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vref_sum
+Z26 IP[6bbF:QIhQbFb]S@mSKf3
+Z27 V2OO;EahzC8PXB3K:FbSOT0
+R3
+Z28 w1746188788
+Z29 8C:/Users/User/Desktop/KC/6/Lab_6/ref_sum.v
+Z30 FC:/Users/User/Desktop/KC/6/Lab_6/ref_sum.v
+L0 1
+R7
+r1
+31
+R11
+!i10b 1
+Z31 !s100 AXf]8DSh8S`n?da16QWDi1
+!s85 0
+Z32 !s108 1747208313.085000
+Z33 !s107 C:/Users/User/Desktop/KC/6/Lab_6/ref_sum.v|
+Z34 !s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/KC/6/Lab_6/ref_sum.v|
+!s101 -O0
+vsum_1r
+Z35 !s100 ;QWTa>mU3`aX2Hl84l2<z1
+Z36 Ilie_HgV0Q85EhWM2=98G>0
+Z37 VCfBWP>[Z8B73b1;GDAa?Q3
+R19
+Z38 w1746187791
+Z39 8D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/ref_sum.v
+Z40 FD:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/ref_sum.v
+L0 1
+R7
+r1
+31
+Z41 !s90 -reportprogress|300|-work|work|D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/ref_sum.v|
+R11
+Z42 !s108 1746187796.912000
+Z43 !s107 D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/ref_sum.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsum_6r
+Z44 !s100 O3:nH=JA_Hz689g9a`K?_0
+Z45 IQlXTbP@8WebMgYIc``X5J2
+Z46 V90T<X3C]>MY1Bcgl2jz_i2
+R19
+Z47 w1746187789
+Z48 8D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/my_sum.v
+Z49 FD:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/my_sum.v
+L0 1
+R7
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/my_sum.v|
+R11
+Z51 !s108 1746187796.825000
+Z52 !s107 D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/my_sum.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_sum
+!i10b 1
+!s100 hNC91SMnB2NJ@A[XS6IoK3
+InBTbfO0BNl3DZ<_cUma]U3
+Z53 V?[S@XOc7;P58OizZje^Po0
+R3
+R28
+8C:/Users/User/Desktop/KC/6/Lab_6/test_sum.v
+FC:/Users/User/Desktop/KC/6/Lab_6/test_sum.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1747208313.146000
+!s107 C:/Users/User/Desktop/KC/6/Lab_6/test_sum.v|
+!s90 -reportprogress|300|-work|work|C:/Users/User/Desktop/KC/6/Lab_6/test_sum.v|
+!s101 -O0
+R11
